@@ -31,6 +31,3 @@ class Synonyms:
             i += 1
         
         return topic
-
-synonyms_ref = Synonyms() 
-print synonyms_ref.findSynonyms("coach", 'n')
